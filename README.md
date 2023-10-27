@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#I'm Fededrico
+I'm Federico
 I'm a Web Developer from Argentina 👨‍💻.
 Right now I'm studying the full-stack developer career.
 
